@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tree</string>
+    <string name="network_error">Ошибка сети, необходимо подключение к интернету!</string>
+    <string name="menu_search_title">Поиск</string>
+    <string name="words">Words:</string>
+    <string name="born">Born:</string>
+    <string name="titles">Titles:</string>
+    <string name="aliases">Aliases:</string>
+    <string name="father">Father:</string>
+    <string name="mother">Mother:</string>
+</resources>
